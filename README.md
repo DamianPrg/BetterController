@@ -1,0 +1,4 @@
+BetterController
+================
+
+Controller for CodeIgniter
